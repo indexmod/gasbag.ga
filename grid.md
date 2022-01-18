@@ -12,7 +12,7 @@ exclude: true
 {% for page in mypages %}
 {% unless page.exclude %}
 <figure>
-<a href="{{ page.permalink | absolute_url }}">{% include indexmod-indicator.html %}</a>
+<a href="{{ page.permalink | absolute_url }}">{% include gasbag-by-indexmod.html %}</a>
 <figcaption>
 <p class="shortname">{{page.shortname}}</p></figcaption>
 </figure>
