@@ -2,6 +2,8 @@
 title: Indexmod blockchainpedia
 permalink: indexmod-blockchainpedia
 layout: default
+exclude: true
+published: false
 givenname: Indexmod
 familyname:
 shortname: INDEXMOD

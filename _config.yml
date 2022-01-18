@@ -14,7 +14,7 @@ theme: jekyll-theme-minimal
 
 include: ['.htaccess']
 
-exclude: ['indexmod-curators.html', 'style-universe.scss', 'style.scss']
+exclude: ['style.css', 'style-universe.css']
 
 use_github_wiki: false
 use_prose_io: true
