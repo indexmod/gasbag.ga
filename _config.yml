@@ -1,5 +1,4 @@
 ---
-
 title: Gasbag
 timezone: UTC
 description: is a NFT collection
@@ -12,9 +11,9 @@ git_branch: main
 
 theme: jekyll-theme-minimal
 
-include: ['.htaccess']
+include: [".htaccess"]
 
-exclude: ['style.css', 'style-universe.css']
+exclude: ["style.css", "style-universe.css"]
 
 use_github_wiki: false
 use_prose_io: true
@@ -23,10 +22,10 @@ custom_sidebar: false
 custom_footer: false
 
 prose:
-  rooturl: 'https://github.com/indexmod/gasbag.ga/blob/main'
-  siteurl: 'https://gasbag.ga/'
-  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
-  media: '/images'
+  rooturl: "https://github.com/indexmod/gasbag.ga/blob/main"
+  siteurl: "https://gasbag.ga/"
+  relativeLinks: "https://prose.github.io/starter/links.jsonp"
+  media: "/images"
 
   ignore:
     - index.md
