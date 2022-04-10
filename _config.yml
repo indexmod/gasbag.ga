@@ -2,13 +2,13 @@ title:              GasBag
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            gasbag.ga
+baseurl:
 url:                gasbag.ga
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    Indexmod
+facebook_username:
 instagram_username:
 linkedin_username:
 
