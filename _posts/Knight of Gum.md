@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Knight of Gum"
-subtitle: "by Ranina"
-date:
+title: Knight of Gum
+subtitle: by Ranina
+date: 2020-01-26 23:45:13 -0400
 tags: ranina artisant
-background: '/img/posts/01.jpg'
+background: /img/posts/01.jpg
 ---
 
 This is md file
